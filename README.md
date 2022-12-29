@@ -11,5 +11,5 @@
 
 - API文档链接：
 
-  [登录注册 (apipost.cn)](https://console-docs.apipost.cn/preview/1380d4ac60e1c6ff/bd28db2c76532b88?target_id=9a531ed1-69f6-45e0-9145-cb4ac310389f#fcc8514b-84fe-4b35-9f35-395555598c00)
+https://console-docs.apipost.cn/preview/ed03170c2acf9472/e57b2ee73c8ec10a
 
